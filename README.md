@@ -49,7 +49,8 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/annu-siby)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:annusiby5@gmail.com)&nbsp;&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annusiby5)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annusiby5)&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://annusiby5.github.io/portfolio-card/)
 
 ---
 
@@ -58,7 +59,3 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annusiby5\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annusiby5\&layout=compact\&theme=tokyonight)
-
----
-
-### ♾️ Curiosity Driven. Learning Never Stops.
