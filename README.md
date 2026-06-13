@@ -23,7 +23,7 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### Backend & Databases
 
@@ -38,28 +38,25 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 
 ---
 
+## 📫 Connect With Me
+
+<a href="https://linkedin.com/in/annu-siby">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:annusiby5@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/annusiby5">
+  <img src="https://skillicons.dev/icons?i=github">
+</a>&nbsp;&nbsp;&nbsp;
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annusiby5\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annusiby5\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌟 Current Focus
-
-* Building modern web applications
-* Improving frontend development skills
-* Learning new technologies and best practices
-* Contributing to meaningful projects
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [annusiby5@gmail.com](mailto:annusiby5@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/annu-siby
-* 🐙 GitHub: https://github.com/annusiby5
 
 ---
 
