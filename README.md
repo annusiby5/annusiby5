@@ -56,6 +56,9 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annusiby5\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annusiby5\&show_icons=true\&theme=tokyonight )
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annusiby5\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annusiby5\&layout=compact\&theme=tokyonight )
+
+![GitHub Streak](https://streak-stats.demolab.com?user=annusiby5&theme=tokyonight )
+
